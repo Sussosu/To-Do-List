@@ -36,4 +36,4 @@ Delete all done
 </div>
 );
 };
-export default TaskList;
+export default TaskList

@@ -1,14 +1,7 @@
-import React from "react";
-import FormTodo from
-    "./FormTodo";
-import TaskList from "./TaskList";
-const Container = () => {
-    return (
-        <div>
-            Container!
-            <FormTodo />
-            <TaskList />
-        </div>
-    );
-};
-export default Container;
+import React from 'react';
+import './App.scss';
+function App() {
+return (<div
+className="App"></div>);
+}
+export default App;
